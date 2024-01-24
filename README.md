@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Soy Joss de La Paz Bolivia, desarrollador Full Stack...
 <!--
 **JossVel/jossvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
